@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.name{
+    background-color: rgb(239, 143, 105);
+    margin: 0 auto;
+    width: 200px;
+}
+.tieude{
+   
+    margin: 0 auto;
+    width: 270px;
+}
